@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharmeshgigs
 - 👀 I’m interested in Android, React-Native
-- 🌱 I’m currently learning Flutter, Figma
+- 🌱 I’m currently KMM
 - 💞️ I’m looking to collaborate on open-source project
 - 📫 How to reach me , Just say hi on info.dharmeshdhameliya@gmail.com
 - 😄 Pronouns: ...
