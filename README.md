@@ -3,8 +3,6 @@
 - 🌱 I’m currently KMM
 - 💞️ I’m looking to collaborate on open-source project
 - 📫 How to reach me , Just say hi on info.dharmeshdhameliya@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 dharmeshgigs/dharmeshgigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
